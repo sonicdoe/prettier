@@ -7,11 +7,6 @@ title: Editor Integration
 
 Atom users can simply install the [prettier-atom] package and use `Ctrl+Alt+F` to format a file (or format on save if enabled).
 
-Alternatively, you can use one the packages below, which behave similarly to [prettier-atom] but have a focus on minimalism.
-
-- [mprettier](https://github.com/t9md/atom-mprettier)
-- [miniprettier](https://github.com/duailibe/atom-miniprettier)
-
 ## Emacs
 
 Emacs users should see [this repository](https://github.com/prettier/prettier-emacs) for on-demand formatting.
